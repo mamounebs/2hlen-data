@@ -1,0 +1,14 @@
+{
+  "name": "2hlen-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hourly catalog extractor + published listings.json for the 2hlen app",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "extract": "tsx scripts/extract-catalog.ts",
+    "verify": "node scripts/verify-catalog.mjs src/data/listings.json"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0"
+  }
+}

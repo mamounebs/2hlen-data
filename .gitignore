@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# extractor HTTP cache (CI crawls fresh each run)
+.cache/
+
+# intermediate extractor output — the published copy lives in docs/
+src/data/
+
+*.log
+.DS_Store

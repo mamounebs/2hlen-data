@@ -1,0 +1,52 @@
+name: Sync catalog
+
+on:
+  schedule:
+    - cron: '0 * * * *' # hourly
+  workflow_dispatch: {} # manual runs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-catalog
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      # Crawls 2hlen.com (public pages only, rate-limited by the script).
+      # The extractor itself exits non-zero on validation failure.
+      - name: Run extractor
+        run: npm run extract
+
+      # SAFETY GATE — fewer than 100 records, unparseable JSON, or any
+      # WhatsApp hostname fails the job. Nothing is committed on failure.
+      - name: Safety gate
+        run: node scripts/verify-catalog.mjs src/data/listings.json
+
+      - name: Publish if changed
+        run: |
+          mkdir -p docs
+          if cmp -s src/data/listings.json docs/listings.json; then
+            echo "Catalog unchanged — nothing to publish."
+            exit 0
+          fi
+          cp src/data/listings.json docs/listings.json
+          node scripts/write-version.mjs docs/listings.json docs/version.json
+          COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('docs/listings.json','utf8')).length)")
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/listings.json docs/version.json
+          git commit -m "Catalog update: ${COUNT} records"
+          git push
