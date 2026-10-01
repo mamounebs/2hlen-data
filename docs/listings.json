@@ -11,7 +11,7 @@
       "fr": "Hôtel Tasiast (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "قرب مركز المدينة والمطار",
     "rawLocation": "موقع الفندق: نواذيبو، موريتانيا",
     "description": {
       "original": "فندق تاسيست هو فندق مريح في مدينة نواذيبو بموريتانيا، يُعد خيارًا جيدًا للإقامة أثناء الزيارة أو العمل في المدينة. يتميز بموقع قريب من مركز المدينة والمطار، ويقدم للضيوف خدمات واي فاي مجاني، بار، مواقف سيارات مجانية، واستقبال يعمل على مدار 24 ساعة. تحتوي الغرف على تكييف وتلفزيون بشاشة مسطحة، وتتوفر أيضًا خدمات مثل خدمة الغرف ونقل من وإلى المطار، مما يجعله مناسبًا للمسافرين بغرض العمل أو الراحة.\n\nاحجز عبر واتساب",
@@ -66,7 +66,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/hotel-tasiast-ndb/",
-    "searchText": "فندق تازيست نواذيبو hotel tasiast nouadhibou hotel tasiast nouadhibou nouadhibou فندق تاسيست هو فندق مريح في مدينة نواذيبو بموريتانيا يعد خيارا جيدا للاقامة اثناء الزيارة او العمل في المدينة يتميز بموقع قريب من مركز المدينة والمطار ويقدم للضيوف خدمات واي فاي مجاني بار مواق",
+    "searchText": "فندق تازيست نواذيبو hotel tasiast nouadhibou hotel tasiast nouadhibou nouadhibou قرب مركز المدينة والمطار فندق تاسيست هو فندق مريح في مدينة نواذيبو بموريتانيا يعد خيارا جيدا للاقامة اثناء الزيارة او العمل في المدينة يتميز بموقع قريب من مركز المدينة والمطار ويقدم للضيوف خدمات واي فاي مجاني بار مواق",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -84,7 +84,7 @@
       "fr": "Complexe Touristique Al-Miraj (Route de Rosso)"
     },
     "city": "Rosso",
-    "district": null,
+    "district": "طريق روسو (83 كم من نواكشوط)",
     "rawLocation": "موقع الفندق: على طريق روصو",
     "description": {
       "original": "يقع منتجع المعراج السياحي على بعد 83 كم فقط من نواكشوط على طريق روصو، وهو وجهة مثالية لأولئك الذين يبحثون عن الهدوء والطبيعة. يتميز المنتجع بأجواءه الهادئة وموقعه الفريد بين الكثبان الرملية الذهبية والأشجار، مما يجعله ملاذًا مثاليًا لعطلة نهاية أسبوع استرخاء أو تنظيم الفعاليات الخاصة.\n\nاحجز عبر واتساب",
@@ -164,7 +164,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/complexe-touristique-al-miraj-route-de-rosso/",
-    "searchText": "منتجع المعراج السياحي طريق روصو tourist complex al miraj route de rosso complexe touristique al miraj route de rosso rosso يقع منتجع المعراج السياحي على بعد 83 كم فقط من نواكشوط على طريق روصو وهو وجهة مثالية لاوليك الذين يبحثون عن الهدوء والطبيعة يتميز المنتجع باجواءه الهادية وموقعه الفريد بين الكثبان الرملية الذهبية وا",
+    "searchText": "منتجع المعراج السياحي طريق روصو tourist complex al miraj route de rosso complexe touristique al miraj route de rosso rosso طريق روسو 83 كم من نواكشوط يقع منتجع المعراج السياحي على بعد 83 كم فقط من نواكشوط على طريق روصو وهو وجهة مثالية لاوليك الذين يبحثون عن الهدوء والطبيعة يتميز المنتجع باجواءه الهادية وموقعه الفريد بين الكثبان الرملية الذهبية وا",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -182,7 +182,7 @@
       "fr": "Hôtel Étoile du Nord (Atar)"
     },
     "city": "Atar",
-    "district": null,
+    "district": "وسط المدينة",
     "rawLocation": "موقع الفندق: أطار",
     "description": {
       "original": "يقع فندق نجم الشمال في مدينة أطار، وهو وجهتك المثالية للإقامة التي تجمع بين الراحة والأناقة في أجواء هادئة وراقية. يقدم الفندق غرفًا واسعة مجهزة بكل وسائل الراحة الحديثة، بالإضافة إلى خدمات عالية الجودة تلبي احتياجات العملاء. بموقعه القريب من المعالم السياحية، يشكل الفندق خيارًا مثاليًا للمسافرين الباحثين عن إقامة ممتعة ومريحة.\n\nاحجز عبر واتساب",
@@ -233,9 +233,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1200,
     "sourceUrl": "https://2hlen.com/hotel-etoile-du-nord-atar/",
-    "searchText": "فندق نجم الشمال اطار hotel etoile du nord atar hotel etoile du nord atar atar يقع فندق نجم الشمال في مدينة اطار وهو وجهتك المثالية للاقامة التي تجمع بين الراحة والاناقة في اجواء هادية وراقية يقدم الفندق غرفا واسعة مجهزة بكل وسايل الراحة الحديثة بالاضافة الى خدمات عالية الجو",
+    "searchText": "فندق نجم الشمال اطار hotel etoile du nord atar hotel etoile du nord atar atar وسط المدينة يقع فندق نجم الشمال في مدينة اطار وهو وجهتك المثالية للاقامة التي تجمع بين الراحة والاناقة في اجواء هادية وراقية يقدم الفندق غرفا واسعة مجهزة بكل وسايل الراحة الحديثة بالاضافة الى خدمات عالية الجو",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -253,7 +253,7 @@
       "fr": "Hôtel Ziwanya (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة",
     "rawLocation": "موقع الفندق: انواكشوط _ تفرغ زينة",
     "description": {
       "original": "يقع فندق زيوَانِيَا في قلب نواكشوط، ويوفر خدمات فاخرة وإقامة مريحة. يتمتع الفندق بموقع استراتيجي بالقرب من المرافق الأساسية، مع غرف مجهزة تجهيزًا جيدًا، وخدمة عملاء ممتازة، ومرافق تضمن تجربة فريدة لجميع الزوار.\n\nاحجز عبر واتساب",
@@ -382,9 +382,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2950,
     "sourceUrl": "https://2hlen.com/hotel-ziwanya-nktt/",
-    "searchText": "فندق زيوانيا نواكشوط hotel ziwanya nouakchott hotel ziwanya nouakchott nouakchott يقع فندق زيوانيا في قلب نواكشوط ويوفر خدمات فاخرة واقامة مريحة يتمتع الفندق بموقع استراتيجي بالقرب من المرافق الاساسية مع غرف مجهزة تجهيزا جيدا وخدمة عملاء ممتازة ومرافق تضمن تجربة فريدة لجم",
+    "searchText": "فندق زيوانيا نواكشوط hotel ziwanya nouakchott hotel ziwanya nouakchott nouakchott تفرغ زينة يقع فندق زيوانيا في قلب نواكشوط ويوفر خدمات فاخرة واقامة مريحة يتمتع الفندق بموقع استراتيجي بالقرب من المرافق الاساسية مع غرف مجهزة تجهيزا جيدا وخدمة عملاء ممتازة ومرافق تضمن تجربة فريدة لجم",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -402,7 +402,7 @@
       "fr": "Hôtel Agni (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": "موقع الفندق: انواذيبو _ دبي",
     "description": {
       "original": "يقدم فندق Agni في نواذيبو إقامة مريحة وترحيبية في قلب المدينة. مع مرافق حديثة وغرف فسيحة وخدمة ممتازة، فهو خيار مثالي للمسافرين في رحلات العمل والترفيه. يقع بالقرب من مناطق الجذب الرئيسية والميناء النابض بالحياة، يضمن فندق Agni الراحة والهدوء للضيوف الذين يستكشفون نواذيبو.\n\nاحجز عبر واتساب",
@@ -517,9 +517,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1500,
     "sourceUrl": "https://2hlen.com/hotel-agni-ndb/",
-    "searchText": "فندق اجني نواذيبو hotel agni nouadhibou hotel agni nouadhibou nouadhibou يقدم فندق agni في نواذيبو اقامة مريحة وترحيبية في قلب المدينة مع مرافق حديثة وغرف فسيحة وخدمة ممتازة فهو خيار مثالي للمسافرين في رحلات العمل والترفيه يقع بالقرب من مناطق الجذب الرييسية والميناء الن",
+    "searchText": "فندق اجني نواذيبو hotel agni nouadhibou hotel agni nouadhibou nouadhibou دبي يقدم فندق agni في نواذيبو اقامة مريحة وترحيبية في قلب المدينة مع مرافق حديثة وغرف فسيحة وخدمة ممتازة فهو خيار مثالي للمسافرين في رحلات العمل والترفيه يقع بالقرب من مناطق الجذب الرييسية والميناء الن",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -537,7 +537,7 @@
       "fr": "Hôtel Urban (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "وسط المدينة",
     "rawLocation": "موقع الفندق: انواكشوط _ تفرغ زينة",
     "description": {
       "original": "يقع فندق يوربان في نواكشوط ويوفر أماكن إقامة مع منطقة جلوس. يتميز هذا الفندق بتراس ويطل على منظر هادئ للشارع. يوفر الفندق استقبالًا مفتوحًا على مدار 24 ساعة، وخدمات نقل من وإلى المطار، وخدمة أمنية مضمونة طوال اليوم، واتصال Wi-Fi مجاني. تتضمن أماكن الإقامة المكيفة مكتبًا وغلاية وثلاجة وخزنة وتلفزيون بشاشة مسطحة وتراس وحمامًا خاصًا مزودًا ببيديه وسخان ماء ومجفف شعر. جميع أماكن الإقامة تحتوي على منطقة لتناول الطعام. يتم توفير أغطية الأسرة والمناشف. يتم تقديم إفطار كونتيننتال كل صباح مع المعجنات الطازجة والبيض والجبن والزبدة والمربى والزبادي وعصير الفواكه. يتوفر مقهى وبار وصالة. يوفر فندق يوربان خدمة تأجير السيارات.\n\nاحجز عبر واتساب",
@@ -580,7 +580,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/hotel-urban-nktt/",
-    "searchText": "فندق اوربان نواكشوط hotel urban nouakchott hotel urban nouakchott nouakchott يقع فندق يوربان في نواكشوط ويوفر اماكن اقامة مع منطقة جلوس يتميز هذا الفندق بتراس ويطل على منظر هادي للشارع يوفر الفندق استقبالا مفتوحا على مدار 24 ساعة وخدمات نقل من والى المطار وخدمة امنية مضم",
+    "searchText": "فندق اوربان نواكشوط hotel urban nouakchott hotel urban nouakchott nouakchott وسط المدينة يقع فندق يوربان في نواكشوط ويوفر اماكن اقامة مع منطقة جلوس يتميز هذا الفندق بتراس ويطل على منظر هادي للشارع يوفر الفندق استقبالا مفتوحا على مدار 24 ساعة وخدمات نقل من والى المطار وخدمة امنية مضم",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -598,7 +598,7 @@
       "fr": "Hôtel LE BON CHOIX (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": "موقع الفندق: انواذيبو _دبي",
     "description": {
       "original": "يضم فندق لو بون شواي تراس ويقع في نواذيبو. يوفر خدمة الغرف، واستقبال يعمل على مدار 24 ساعة، وخدمة صرف العملات. تحتوي الغرف على شرفة بإطلالة على المدينة. تحتوي غرف فندق لو بون شواي على تكييف ومكتب. يتم تقديم إفطار كونتيننتال كل صباح. يقع أقرب مطار، مطار نواذيبو، على بعد 1 كم من مكان الإقامة.\n\nاحجز عبر واتساب",
@@ -688,9 +688,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 3000,
     "sourceUrl": "https://2hlen.com/hotel-le-bon-choix-ndb/",
-    "searchText": "فندق لبون شوى نواذيبو hotel le bon choix nouadhibou hotel le bon choix nouadhibou nouadhibou يضم فندق لو بون شواي تراس ويقع في نواذيبو يوفر خدمة الغرف واستقبال يعمل على مدار 24 ساعة وخدمة صرف العملات تحتوي الغرف على شرفة باطلالة على المدينة تحتوي غرف فندق لو بون شواي على تكييف ومكتب يتم",
+    "searchText": "فندق لبون شوى نواذيبو hotel le bon choix nouadhibou hotel le bon choix nouadhibou nouadhibou دبي يضم فندق لو بون شواي تراس ويقع في نواذيبو يوفر خدمة الغرف واستقبال يعمل على مدار 24 ساعة وخدمة صرف العملات تحتوي الغرف على شرفة باطلالة على المدينة تحتوي غرف فندق لو بون شواي على تكييف ومكتب يتم",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -708,7 +708,7 @@
       "fr": "Hôtel Monotel (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة (دار البركة)",
     "rawLocation": "موقع الفندق: انواكشوط _تفرغ زينة",
     "description": {
       "original": "يقدم فندق مونوتيل، دار البركة، إقامة مريحة في قلب العاصمة الموريتانية انواكشوط. يتميز الفندق بموقعه المتميز بالقرب من السفارات والمطار والشاطئ.\n\nيقدم الفندق غرفًا عصرية ومجهزة تجهيزًا جيدًا، ومسبحًا خارجيًا، ومطعمًا، وبارًا، و4 قاعات مؤتمرات، ومركزًا للأعمال، واتصال Wi-Fi مجانيًا، وموقف سيارات خاص، وأمنًا على مدار 24 ساعة.\n\nيتميز الفندق بنظافته وموظفيه الودودين.\n\nمثالي لرحلات العمل والترفيه.\n\nاحجز عبر واتساب",
@@ -770,7 +770,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/hotel-monotel-nktt/",
-    "searchText": "فندق مونوتيل نواكشوط hotel monotel nouakchott hotel monotel nouakchott nouakchott يقدم فندق مونوتيل دار البركة اقامة مريحة في قلب العاصمة الموريتانية انواكشوط يتميز الفندق بموقعه المتميز بالقرب من السفارات والمطار والشاطي يقدم الفندق غرفا عصرية ومجهزة تجهيزا جيدا ومسبحا خ",
+    "searchText": "فندق مونوتيل نواكشوط hotel monotel nouakchott hotel monotel nouakchott nouakchott تفرغ زينة دار البركة يقدم فندق مونوتيل دار البركة اقامة مريحة في قلب العاصمة الموريتانية انواكشوط يتميز الفندق بموقعه المتميز بالقرب من السفارات والمطار والشاطي يقدم الفندق غرفا عصرية ومجهزة تجهيزا جيدا ومسبحا خ",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -788,7 +788,7 @@
       "fr": "Hôtel El Khater (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "وسط المدينة",
     "rawLocation": "موقع الفندق: انواكشوط _ تفرغ زينة",
     "description": {
       "original": "L'hôtel \"El Khater\" à Nouakchott se distingue par son emplacement central et sa proximité avec les principaux sites touristiques. Il propose des chambres et des suites confortables avec des services de qualité, y compris divers restaurants et des installations pour les réunions. L'équipe de l'hôtel garantit une expérience d'hospitalité exceptionnelle pour les clients, qu'ils soient en voyage d'affaires ou de loisirs.\n\nاحجز عبر واتساب",
@@ -804,7 +804,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/hotel-el-khater/",
-    "searchText": "فندق الخاطر نواكشوط hotel el khater nouakchott hotel el khater nouakchott nouakchott l hotel el khater a nouakchott se distingue par son emplacement central et sa proximite avec les principaux sites touristiques il propose des chambres et des suites confortables avec des services d",
+    "searchText": "فندق الخاطر نواكشوط hotel el khater nouakchott hotel el khater nouakchott nouakchott وسط المدينة l hotel el khater a nouakchott se distingue par son emplacement central et sa proximite avec les principaux sites touristiques il propose des chambres et des suites confortables avec des services d",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -822,7 +822,7 @@
       "fr": "Hôtel Free Zone (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "قرب المطار (1 كم)",
     "rawLocation": "موقع الفندق: انواذيبو _ دبي",
     "description": {
       "original": "Situé à Nouadhibou, l'Hotel Free Zone propose une salle de sport, un salon commun, une terrasse et un restaurant. Il propose une réception ouverte 24h/24, des transferts aéroport, un service d'étage et une connexion Wi-Fi gratuite dans l'ensemble de ses locaux.\n\nVous pourrez jouer au ping-pong sur place et pratiquer la pêche dans les environs.\n\nL'aéroport de Nouadhibou, le plus proche, est implanté à 1 km.\n\nاحجز عبر واتساب",
@@ -836,9 +836,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2500,
     "sourceUrl": "https://2hlen.com/hotel-free-zone/",
-    "searchText": "فندق فري زون نواذيبو hotel free zone nouadhibou hotel free zone nouadhibou nouadhibou situe a nouadhibou l hotel free zone propose une salle de sport un salon commun une terrasse et un restaurant il propose une reception ouverte 24h 24 des transferts aeroport un service d etage e",
+    "searchText": "فندق فري زون نواذيبو hotel free zone nouadhibou hotel free zone nouadhibou nouadhibou قرب المطار 1 كم situe a nouadhibou l hotel free zone propose une salle de sport un salon commun une terrasse et un restaurant il propose une reception ouverte 24h 24 des transferts aeroport un service d etage e",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -856,7 +856,7 @@
       "fr": "Hôtel Hayatt (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "قرب المطار (3 كم)",
     "rawLocation": "موقع الفندق: انواكشوط _ تفرغ زينة",
     "description": {
       "original": "Situé à Nouakchott, l'Hôtel Hayatt propose un hébergement 3 étoiles avec un salon commun, un restaurant et un bar. Une piscine intérieure et un service de location de voitures sont à votre disposition. L'établissement propose un service d'étage, une réception ouverte 24h/24 et un service de change.\n\nL'hôtel propose des chambres climatisées dotées d'un bureau, d'un coffre-fort, d'une télévision à écran plat, d'une terrasse et d'une salle de bains privative avec douche. Les logements sont équipés d'un minibar.\n\nLe petit-déjeuner est servi chaque matin et comprend des plats sous forme de buffet, continentaux et halal.\n\nL'aéroport international de Nouakchott, le plus proche, est implanté à 3 km.\n\nاحجز عبر واتساب",
@@ -872,7 +872,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/hotel-hayatt/",
-    "searchText": "فندق حياة نواكشوط hotel hayatt nouakchott hotel hayatt nouakchott nouakchott situe a nouakchott l hotel hayatt propose un hebergement 3 etoiles avec un salon commun un restaurant et un bar une piscine interieure et un service de location de voitures sont a votre disposition",
+    "searchText": "فندق حياة نواكشوط hotel hayatt nouakchott hotel hayatt nouakchott nouakchott قرب المطار 3 كم situe a nouakchott l hotel hayatt propose un hebergement 3 etoiles avec un salon commun un restaurant et un bar une piscine interieure et un service de location de voitures sont a votre disposition",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -890,7 +890,7 @@
       "fr": "Hôtel Atlantique (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة",
     "rawLocation": "موقع الفندق: انواكشوط _ تفرغ زينة",
     "description": {
       "original": "Situé à Nouakchott, l'Hôtel Atlantique propose un hébergement 3 étoiles avec un restaurant. L'hôtel met gratuitement à votre disposition une connexion Wi-Fi et un parking privé. Parlant arabe et français à la réception ouverte 24h/24, le personnel est prêt à vous aider à tout moment de la journée. L'aéroport international de Nouakchott, le plus proche, est implanté à 4 km de l'hôtel.\n\nاحجز عبر واتساب",
@@ -976,9 +976,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2500,
     "sourceUrl": "https://2hlen.com/hotel-atlantique/",
-    "searchText": "فندق اطلانطيك نواكشوط hotel atlantique nouakchott hotel atlantique nouakchott nouakchott situe a nouakchott l hotel atlantique propose un hebergement 3 etoiles avec un restaurant l hotel met gratuitement a votre disposition une connexion wi fi et un parking prive parlant arabe et franc",
+    "searchText": "فندق اطلانطيك نواكشوط hotel atlantique nouakchott hotel atlantique nouakchott nouakchott تفرغ زينة situe a nouakchott l hotel atlantique propose un hebergement 3 etoiles avec un restaurant l hotel met gratuitement a votre disposition une connexion wi fi et un parking prive parlant arabe et franc",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -996,7 +996,7 @@
       "fr": "Hôtel Nour El Houda (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "وسط المدينة",
     "rawLocation": "موقع الفندق: انواذيبو",
     "description": {
       "original": "يقع فندق نور الهدى في مدينة نواذيبو ويوفر أماكن إقامة مكيفة. يتميز الفندق بكونه يوفر مكتب استقبال يعمل على مدار 24 ساعة ومطعم. كما يتوفر خدمة الواي فاي المجانية في جميع أنحاء الفندق.\n\nاحجز عبر واتساب",
@@ -1035,7 +1035,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/hotel-nour-el-houda/",
-    "searchText": "فندق نور الهدى نواذيبو hotel nour el houda nouadhibou hotel nour el houda nouadhibou nouadhibou يقع فندق نور الهدى في مدينة نواذيبو ويوفر اماكن اقامة مكيفة يتميز الفندق بكونه يوفر مكتب استقبال يعمل على مدار 24 ساعة ومطعم كما يتوفر خدمة الواي فاي المجانية في جميع انحاء الفندق احجز عبر واتساب",
+    "searchText": "فندق نور الهدى نواذيبو hotel nour el houda nouadhibou hotel nour el houda nouadhibou nouadhibou وسط المدينة يقع فندق نور الهدى في مدينة نواذيبو ويوفر اماكن اقامة مكيفة يتميز الفندق بكونه يوفر مكتب استقبال يعمل على مدار 24 ساعة ومطعم كما يتوفر خدمة الواي فاي المجانية في جميع انحاء الفندق احجز عبر واتساب",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -1053,7 +1053,7 @@
       "fr": "Hôtel El Madina (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": "موقع الفندق: انواذيبو _ دبي",
     "description": {
       "original": "يقع فندق المدينة في نواذيبو ويوفر بار. هذا الفندق 4 نجوم يوفر صالة مشتركة واستقبال مفتوح على مدار 24 ساعة. يضم الفندق مطعماً يقدم أطباقاً أفريقية وموقف سيارات خاص مجاني. جميع الغرف مجهزة بتكييف وتلفزيون بشاشة مسطحة. يقع أقرب مطار، وهو مطار نواذيبو، على بعد 1 كم.\n\nاحجز عبر واتساب",
@@ -1149,9 +1149,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1800,
     "sourceUrl": "https://2hlen.com/hotel-el-madina/",
-    "searchText": "فندق المدينة نواذيبو hotel el madina nouadhibou hotel el madina nouadhibou nouadhibou يقع فندق المدينة في نواذيبو ويوفر بار هذا الفندق 4 نجوم يوفر صالة مشتركة واستقبال مفتوح على مدار 24 ساعة يضم الفندق مطعما يقدم اطباقا افريقية وموقف سيارات خاص مجاني جميع الغرف مجهزة بتكييف وتلفزي",
+    "searchText": "فندق المدينة نواذيبو hotel el madina nouadhibou hotel el madina nouadhibou nouadhibou دبي يقع فندق المدينة في نواذيبو ويوفر بار هذا الفندق 4 نجوم يوفر صالة مشتركة واستقبال مفتوح على مدار 24 ساعة يضم الفندق مطعما يقدم اطباقا افريقية وموقف سيارات خاص مجاني جميع الغرف مجهزة بتكييف وتلفزي",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -1169,7 +1169,7 @@
       "fr": "Hôtel Marbella (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": "موقع الفندق: انواذيبو _ دبي",
     "description": {
       "original": "Hôtel 4 étoiles à Nouadhibou, Mauritanie. Découvrez la combinaison harmonieuse de chambres confortables, d'architecture contemporaine et de vues imprenables sur la ville. Vivez une expérience culinaire diversifiée dans notre restaurant, où se rencontrent les saveurs locales et internationales. L'Hôtel Marbella vous promet une retraite luxueuse et culturellement riche au cœur de Nouadhibou.\n\nاحجز عبر واتساب",
@@ -1236,9 +1236,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 3500,
     "sourceUrl": "https://2hlen.com/hotel-marbella/",
-    "searchText": "فندق ماربيا نواذيبو hotel marbella nouadhibou hotel marbella nouadhibou nouadhibou hotel 4 etoiles a nouadhibou mauritanie decouvrez la combinaison harmonieuse de chambres confortables d architecture contemporaine et de vues imprenables sur la ville vivez une experience culinair",
+    "searchText": "فندق ماربيا نواذيبو hotel marbella nouadhibou hotel marbella nouadhibou nouadhibou دبي hotel 4 etoiles a nouadhibou mauritanie decouvrez la combinaison harmonieuse de chambres confortables d architecture contemporaine et de vues imprenables sur la ville vivez une experience culinair",
     "metadata": {
       "sourcePageId": 144,
       "extractorVersion": "1.4"
@@ -1256,7 +1256,7 @@
       "fr": "Appartements assakna (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "المطار",
     "rawLocation": "موقع الشقق: انواذيبو _ المطار",
     "description": {
       "original": "شقق أسكنا في نواذيبو هي وحدات سكنية مريحة وعملية تقع في قلب مدينة نواذيبو، مناسبة للإقامة الطويلة أو القصيرة. تتميز هذه الشقق بتوفرها على مساحات معيشة منظمة تشمل غرف نوم وصالة ومطبخ وحمام، وتوفر بيئة هادئة وآمنة للسكان أو الزوار. كما تُعد خيارًا مناسبًا للعائلات والمهنيين والمسافرين الراغبين في سكن مجهز قريب من الخدمات المحلية مثل الأسواق والمرافق اليومية في المدينة\n\n1800\n\nMRU\n\nلليلة الواحدة\n\nاحجز عبر واتساب",
@@ -1303,9 +1303,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1800,
     "sourceUrl": "https://2hlen.com/appartements-assakna/",
-    "searchText": "شقق اسكنا انواذيبو assakna apartments nouadhibou appartements assakna nouadhibou nouadhibou شقق اسكنا في نواذيبو هي وحدات سكنية مريحة وعملية تقع في قلب مدينة نواذيبو مناسبة للاقامة الطويلة او القصيرة تتميز هذه الشقق بتوفرها على مساحات معيشة منظمة تشمل غرف نوم وصالة ومطبخ وحمام وتوفر بيية",
+    "searchText": "شقق اسكنا انواذيبو assakna apartments nouadhibou appartements assakna nouadhibou nouadhibou المطار شقق اسكنا في نواذيبو هي وحدات سكنية مريحة وعملية تقع في قلب مدينة نواذيبو مناسبة للاقامة الطويلة او القصيرة تتميز هذه الشقق بتوفرها على مساحات معيشة منظمة تشمل غرف نوم وصالة ومطبخ وحمام وتوفر بيية",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -1323,7 +1323,7 @@
       "fr": "Appartements Chaima (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "كابانو",
     "rawLocation": "موقع الشقق: نواذيبو _ كابانو",
     "description": {
       "original": "اكتشفوا شققنا المفروشة في قلب نواذيبو. راحة، فخامة وخدمة استثنائية بأسعار تنافسية لإقامات لا تُنسى. شقق شيماء توفر لكم تجربة إقامة فريدة تجمع بين الأناقة والراحة في موقع مميز.\n\nاحجز عبر واتساب",
@@ -1396,7 +1396,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/appartements-chaima-ndb/",
-    "searchText": "شقق شيماء نواذيبو chaima apartments nouadhibou appartements chaima nouadhibou nouadhibou اكتشفوا شققنا المفروشة في قلب نواذيبو راحة فخامة وخدمة استثنايية باسعار تنافسية لاقامات لا تنسى شقق شيماء توفر لكم تجربة اقامة فريدة تجمع بين الاناقة والراحة في موقع مميز احجز عبر واتساب",
+    "searchText": "شقق شيماء نواذيبو chaima apartments nouadhibou appartements chaima nouadhibou nouadhibou كابانو اكتشفوا شققنا المفروشة في قلب نواذيبو راحة فخامة وخدمة استثنايية باسعار تنافسية لاقامات لا تنسى شقق شيماء توفر لكم تجربة اقامة فريدة تجمع بين الاناقة والراحة في موقع مميز احجز عبر واتساب",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -1414,7 +1414,7 @@
       "fr": "Appartements Tayba 2 (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "مفترق مدريد",
     "rawLocation": "موقع الشقق: نواكشوط _ مفترق مدريد",
     "description": {
       "original": "شقق طيبة: شقق فاخرة مفروشة للإيجار في قلب نواكشوط. توفر الراحة والأناقة بتصميم عصري وموقع مميز بالقرب من الخدمات. مثالية للإقامات القصيرة أو الطويلة.\n\nاحجز عبر واتساب",
@@ -1454,9 +1454,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 850,
     "sourceUrl": "https://2hlen.com/appartements-tayba-2-nktt/",
-    "searchText": "شقق طيبة 2 نواكشوط tayba 2 apartments nouakchott appartements tayba 2 nouakchott nouakchott شقق طيبة شقق فاخرة مفروشة للايجار في قلب نواكشوط توفر الراحة والاناقة بتصميم عصري وموقع مميز بالقرب من الخدمات مثالية للاقامات القصيرة او الطويلة احجز عبر واتساب",
+    "searchText": "شقق طيبة 2 نواكشوط tayba 2 apartments nouakchott appartements tayba 2 nouakchott nouakchott مفترق مدريد شقق طيبة شقق فاخرة مفروشة للايجار في قلب نواكشوط توفر الراحة والاناقة بتصميم عصري وموقع مميز بالقرب من الخدمات مثالية للاقامات القصيرة او الطويلة احجز عبر واتساب",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -1474,7 +1474,7 @@
       "fr": "Appartements WHYNOTFLY (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة  سانتر متير",
     "rawLocation": "موقع الشقق: نواكشوط _ تفرغ زينة_مركز البث",
     "description": {
       "original": "شقق Why Not Fly المفروشة في نواكشوط تقدم الراحة والرفاهية بأسعار معقولة. تقع بشكل مثالي في قلب المدينة، وتتميز بتجهيزات عصرية تشمل التكييف واتصال إنترنت عالي السرعة ومطبخ مجهز بالكامل. الخيار المثالي لإقامة ممتعة وآمنة، سواء للعمل أو السياحة.\n\nاحجز عبر واتساب",
@@ -1511,9 +1511,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1500,
     "sourceUrl": "https://2hlen.com/appartements-why-not-fly-nktt/",
-    "searchText": "شقق whynotfly نواكشوط whynotfly apartments nouakchott appartements whynotfly nouakchott nouakchott شقق why not fly المفروشة في نواكشوط تقدم الراحة والرفاهية باسعار معقولة تقع بشكل مثالي في قلب المدينة وتتميز بتجهيزات عصرية تشمل التكييف واتصال انترنت عالي السرعة ومطبخ مجهز بالكامل الخيار المثالي",
+    "searchText": "شقق whynotfly نواكشوط whynotfly apartments nouakchott appartements whynotfly nouakchott nouakchott تفرغ زينة سانتر متير شقق why not fly المفروشة في نواكشوط تقدم الراحة والرفاهية باسعار معقولة تقع بشكل مثالي في قلب المدينة وتتميز بتجهيزات عصرية تشمل التكييف واتصال انترنت عالي السرعة ومطبخ مجهز بالكامل الخيار المثالي",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -1531,7 +1531,7 @@
       "fr": "Appartements Ikamtak (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة  الصحراوي",
     "rawLocation": "موقع الشقق: نواكشوط _ تفرغ زينة _ الصحراوي",
     "description": {
       "original": "شقق إقامتك - تجربة مريحة وفاخرة في قلب نواكشوط. نقدم شققاً مفروشة تلبي أعلى معايير الراحة والنظافة، مع تجهيزات عصرية لتلبية جميع احتياجاتكم. الموقع المثالي والخدمات الاستثنائية تجعلها الخيار الأفضل للإقامات القصيرة أو الطويلة. احجز الآن واستمتع بأجواء دافئة كمنزلك.\n\nاحجز عبر واتساب",
@@ -1629,9 +1629,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2000,
     "sourceUrl": "https://2hlen.com/appartements-ikamtak-nktt/",
-    "searchText": "شقق اكامتك نواكشوط ikamtak apartments nouakchott appartements ikamtak nouakchott nouakchott شقق اقامتك تجربة مريحة وفاخرة في قلب نواكشوط نقدم شققا مفروشة تلبي اعلى معايير الراحة والنظافة مع تجهيزات عصرية لتلبية جميع احتياجاتكم الموقع المثالي والخدمات الاستثنايية تجعلها الخيار الافضل لل",
+    "searchText": "شقق اكامتك نواكشوط ikamtak apartments nouakchott appartements ikamtak nouakchott nouakchott تفرغ زينة الصحراوي شقق اقامتك تجربة مريحة وفاخرة في قلب نواكشوط نقدم شققا مفروشة تلبي اعلى معايير الراحة والنظافة مع تجهيزات عصرية لتلبية جميع احتياجاتكم الموقع المثالي والخدمات الاستثنايية تجعلها الخيار الافضل لل",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -1649,7 +1649,7 @@
       "fr": "Appartements Al Qimma (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة البوادي",
     "rawLocation": "موقع الشقق: نواكشوط _ تفرغ زينة _ البوادي",
     "description": {
       "original": "شقق القمة المفروشة في نواكشوط تقدم لكم إقامة مريحة وفاخرة في موقع مميز. الشقق مجهزة بأحدث الوسائل الراحة لتلبي جميع احتياجاتكم، مع خدمات عالية الجودة وأسعار تنافسية. الخيار المثالي لإقامة هادئة وآمنة في قلب العاصمة.\n\nاحجز عبر واتساب",
@@ -1715,9 +1715,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2000,
     "sourceUrl": "https://2hlen.com/appartements-al-qimma-nktt/",
-    "searchText": "شقق القمة نواكشوط al qimma apartments nouakchott appartements al qimma nouakchott nouakchott شقق القمة المفروشة في نواكشوط تقدم لكم اقامة مريحة وفاخرة في موقع مميز الشقق مجهزة باحدث الوسايل الراحة لتلبي جميع احتياجاتكم مع خدمات عالية الجودة واسعار تنافسية الخيار المثالي لاقامة هادية وامنة",
+    "searchText": "شقق القمة نواكشوط al qimma apartments nouakchott appartements al qimma nouakchott nouakchott تفرغ زينة البوادي شقق القمة المفروشة في نواكشوط تقدم لكم اقامة مريحة وفاخرة في موقع مميز الشقق مجهزة باحدث الوسايل الراحة لتلبي جميع احتياجاتكم مع خدمات عالية الجودة واسعار تنافسية الخيار المثالي لاقامة هادية وامنة",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -1735,7 +1735,7 @@
       "fr": "Appartements Ritage (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة الصحراوي",
     "rawLocation": "موقع الشقق: نواكشوط _ الصحراوي",
     "description": {
       "original": "شقق ريتاج: شقق مفروشة بأناقة وراحة في قلب نواكشوط، توفر تجربة إقامة استثنائية مع وسائل الراحة الحديثة والخدمات عالية الجودة، مثالية للإقامات القصيرة والطويلة.\n\nاحجز عبر واتساب",
@@ -1841,7 +1841,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/appartements-ritage-nktt/",
-    "searchText": "شقق ريتاج نواكشوط ritage apartments nouakchott appartements ritage nouakchott nouakchott شقق ريتاج شقق مفروشة باناقة وراحة في قلب نواكشوط توفر تجربة اقامة استثنايية مع وسايل الراحة الحديثة والخدمات عالية الجودة مثالية للاقامات القصيرة والطويلة احجز عبر واتساب",
+    "searchText": "شقق ريتاج نواكشوط ritage apartments nouakchott appartements ritage nouakchott nouakchott تفرغ زينة الصحراوي شقق ريتاج شقق مفروشة باناقة وراحة في قلب نواكشوط توفر تجربة اقامة استثنايية مع وسايل الراحة الحديثة والخدمات عالية الجودة مثالية للاقامات القصيرة والطويلة احجز عبر واتساب",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -1859,7 +1859,7 @@
       "fr": "Appartements Al Majd (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة البوادي",
     "rawLocation": "موقع الشقق: انواكشوط - البوادي",
     "description": {
       "original": "شقق المجد - شقق فاخرة مفروشة للإيجار في قلب نواكشوط، توفر راحة وخصوصية بأسعار تنافسية. مثالية للإقامات القصيرة والطويلة، مع خدمات متميزة تضمن رضا العملاء. الشقق مجهزة بأثاث عالي الجودة وتوفر جميع وسائل الراحة الحديثة. تقع الشقق في موقع استراتيجي بالقرب من المرافق والخدمات الرئيسية في المدينة، مما يجعلها الخيار الأمثل للمسافرين ورجال الأعمال والعائلات على حد سواء.\n\nاحجز عبر واتساب",
@@ -1942,9 +1942,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2200,
     "sourceUrl": "https://2hlen.com/appartements-al-majd-nktt/",
-    "searchText": "شقق المجد نواكشوط al majd apartments nouakchott appartements al majd nouakchott nouakchott شقق المجد شقق فاخرة مفروشة للايجار في قلب نواكشوط توفر راحة وخصوصية باسعار تنافسية مثالية للاقامات القصيرة والطويلة مع خدمات متميزة تضمن رضا العملاء الشقق مجهزة باثاث عالي الجودة وتوفر جميع وساي",
+    "searchText": "شقق المجد نواكشوط al majd apartments nouakchott appartements al majd nouakchott nouakchott تفرغ زينة البوادي شقق المجد شقق فاخرة مفروشة للايجار في قلب نواكشوط توفر راحة وخصوصية باسعار تنافسية مثالية للاقامات القصيرة والطويلة مع خدمات متميزة تضمن رضا العملاء الشقق مجهزة باثاث عالي الجودة وتوفر جميع وساي",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -1962,7 +1962,7 @@
       "fr": "Appartements Marhaba (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة طريق نواذيبو",
     "rawLocation": "الموقع: انواكشوط - طريق انواذيبو",
     "description": {
       "original": "شقق مرحبا: شقق مفروشة مريحة للإيجار في قلب نواكشوط، توفر الراحة والأمان وخدمات تناسب احتياجاتك.\n\nاحجز عبر واتساب",
@@ -2003,9 +2003,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2000,
     "sourceUrl": "https://2hlen.com/appartements-marhaba-nktt/",
-    "searchText": "شقق مرحبا نواكشوط marhaba apartments nouakchott appartements marhaba nouakchott nouakchott شقق مرحبا شقق مفروشة مريحة للايجار في قلب نواكشوط توفر الراحة والامان وخدمات تناسب احتياجاتك احجز عبر واتساب",
+    "searchText": "شقق مرحبا نواكشوط marhaba apartments nouakchott appartements marhaba nouakchott nouakchott تفرغ زينة طريق نواذيبو شقق مرحبا شقق مفروشة مريحة للايجار في قلب نواكشوط توفر الراحة والامان وخدمات تناسب احتياجاتك احجز عبر واتساب",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -2023,7 +2023,7 @@
       "fr": "Appartements Maram (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "المطار القديم",
     "rawLocation": "الموقع: انواكشوط - المطار القديم",
     "description": {
       "original": "شقق مرام: شقق مفروشة مريحة للإيجار في قلب نواكشوط، توفر الراحة والأمان وخدمات تناسب احتياجاتك.\n\nاحجز عبر واتساب",
@@ -2067,9 +2067,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1200,
     "sourceUrl": "https://2hlen.com/appartements-maram-nktt/",
-    "searchText": "شقق مرام نواكشوط maram apartments nouakchott appartements maram nouakchott nouakchott شقق مرام شقق مفروشة مريحة للايجار في قلب نواكشوط توفر الراحة والامان وخدمات تناسب احتياجاتك احجز عبر واتساب",
+    "searchText": "شقق مرام نواكشوط maram apartments nouakchott appartements maram nouakchott nouakchott المطار القديم شقق مرام شقق مفروشة مريحة للايجار في قلب نواكشوط توفر الراحة والامان وخدمات تناسب احتياجاتك احجز عبر واتساب",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -2087,7 +2087,7 @@
       "fr": "Appartements Al Raha (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "عرفات",
     "rawLocation": "الموقع: انواكشوط - عرفات",
     "description": {
       "original": "شقق الراحة: شقق مفروشة في قلب نواكشوط توفر الراحة والهدوء بأسعار معقولة. الخيار الأمثل لإقامة ممتعة وآمنة.\n\nاحجز عبر واتساب",
@@ -2160,9 +2160,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1100,
     "sourceUrl": "https://2hlen.com/appartements-al-raha-nktt/",
-    "searchText": "شقق الراحة نواكشوط al raha apartments nouakchott appartements al raha nouakchott nouakchott شقق الراحة شقق مفروشة في قلب نواكشوط توفر الراحة والهدوء باسعار معقولة الخيار الامثل لاقامة ممتعة وامنة احجز عبر واتساب",
+    "searchText": "شقق الراحة نواكشوط al raha apartments nouakchott appartements al raha nouakchott nouakchott عرفات شقق الراحة شقق مفروشة في قلب نواكشوط توفر الراحة والهدوء باسعار معقولة الخيار الامثل لاقامة ممتعة وامنة احجز عبر واتساب",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -2180,7 +2180,7 @@
       "fr": "Appartements Al Hanaa (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "عرفات",
     "rawLocation": "Nouakchott _ Arafat",
     "description": {
       "original": "\"Appartements Al-Hana : Des appartements meublés haut de gamme à louer au cœur de Nouakchott, alliant confort et emplacement privilégié. Idéal pour des séjours courts ou longs.\"\n\nRéserver via WhatsApp",
@@ -2194,9 +2194,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1500,
     "sourceUrl": "https://2hlen.com/appartements-al-hanaa-nktt/",
-    "searchText": "شقق الهناء نواكشوط al hanaa apartments nouakchott appartements al hanaa nouakchott nouakchott appartements al hana des appartements meubles haut de gamme a louer au cœur de nouakchott alliant confort et emplacement privilegie ideal pour des sejours courts ou longs reserver via whatsapp",
+    "searchText": "شقق الهناء نواكشوط al hanaa apartments nouakchott appartements al hanaa nouakchott nouakchott عرفات appartements al hana des appartements meubles haut de gamme a louer au cœur de nouakchott alliant confort et emplacement privilegie ideal pour des sejours courts ou longs reserver via whatsapp",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -2214,7 +2214,7 @@
       "fr": "Appartements Al Fateh (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "كابانو",
     "rawLocation": "Nouadhibou - Cabano",
     "description": {
       "original": "Appartements Al-Fateh - Des appartements meublés à louer au cœur de la ville de Nouadhibou. Ces appartements bénéficient d'un emplacement stratégique à proximité des services et offrent une ambiance confortable, idéale pour les familles et les voyageurs, avec des équipements modernes pour un séjour agréable et confortable.\n\nRéserver via WhatsApp",
@@ -2259,7 +2259,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/appartements-al-fateh-ndb/",
-    "searchText": "شقق الفاتح نواذيبو al fateh apartments nouadhibou appartements al fateh nouadhibou nouadhibou appartements al fateh des appartements meubles a louer au cœur de la ville de nouadhibou ces appartements beneficient d un emplacement strategique a proximite des services et offrent une ambiance c",
+    "searchText": "شقق الفاتح نواذيبو al fateh apartments nouadhibou appartements al fateh nouadhibou nouadhibou كابانو appartements al fateh des appartements meubles a louer au cœur de la ville de nouadhibou ces appartements beneficient d un emplacement strategique a proximite des services et offrent une ambiance c",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -2277,7 +2277,7 @@
       "fr": "Appartements Jawaher (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تين سويليم",
     "rawLocation": "Nouakchott - Ten Soueilim",
     "description": {
       "original": "Les appartements Jawaher à Nouakchott offrent un séjour confortable et moderne dans un emplacement privilégié. Ils sont entièrement équipés avec une décoration élégante, convenant aux familles et aux voyageurs. Réservez dès maintenant pour une expérience unique alliant confort et luxe.\n\nRéserver via WhatsApp",
@@ -2310,9 +2310,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1400,
     "sourceUrl": "https://2hlen.com/appartements-jawaher-nktt/",
-    "searchText": "شقق جواهر نواكشوط jawaher apartments nouakchott appartements jawaher nouakchott nouakchott les appartements jawaher a nouakchott offrent un sejour confortable et moderne dans un emplacement privilegie ils sont entierement equipes avec une decoration elegante convenant aux familles et aux",
+    "searchText": "شقق جواهر نواكشوط jawaher apartments nouakchott appartements jawaher nouakchott nouakchott تين سويليم les appartements jawaher a nouakchott offrent un sejour confortable et moderne dans un emplacement privilegie ils sont entierement equipes avec une decoration elegante convenant aux familles et aux",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -2330,7 +2330,7 @@
       "fr": "Appartements Al Madah (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "عين الطلح",
     "rawLocation": "Nouakchott - Ain Talh",
     "description": {
       "original": "\"Les Appartements Meublés Al-Maddah à Nouakchott vous offrent une expérience de séjour confortable et complète. Les appartements bénéficient d'un emplacement stratégique à proximité des commodités essentielles et sont équipés de services modernes et de haute qualité pour garantir votre confort. Que vous recherchiez un séjour de courte ou de longue durée, les Appartements Al-Maddah sont le choix idéal pour un séjour paisible et sécurisé.\"\n\nRéserver via WhatsApp",
@@ -2373,9 +2373,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1500,
     "sourceUrl": "https://2hlen.com/appartements-al-madah-nktt/",
-    "searchText": "شقق المدح نواكشوط al madah apartments nouakchott appartements al madah nouakchott nouakchott les appartements meubles al maddah a nouakchott vous offrent une experience de sejour confortable et complete les appartements beneficient d un emplacement strategique a proximite des commodites ess",
+    "searchText": "شقق المدح نواكشوط al madah apartments nouakchott appartements al madah nouakchott nouakchott عين الطلح les appartements meubles al maddah a nouakchott vous offrent une experience de sejour confortable et complete les appartements beneficient d un emplacement strategique a proximite des commodites ess",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -2393,7 +2393,7 @@
       "fr": "Appartements Malika (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "عرفات",
     "rawLocation": "الموقع: انواكشوط _ عرفات",
     "description": {
       "original": "توفر لكم شقق مليكة تجربة إقامة مريحة وآمنة في قلب نواكشوط، عرفات. تتميز هذه الشقق بتصميم عصري وأثاث فاخر، وهي مجهزة بكافة وسائل الراحة الضرورية، بما في ذلك مطبخ مجهز بالكامل، واتصال إنترنت عالي السرعة، وتكييف هواء. موقعها المثالي يتيح سهولة الوصول إلى المعالم والخدمات الرئيسية في المدينة، مما يجعلها الخيار الأمثل للإقامات القصيرة أو الطويلة.\n\nاحجز عبر واتساب",
@@ -2457,9 +2457,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2000,
     "sourceUrl": "https://2hlen.com/appartements-malika-nktt/",
-    "searchText": "شقق ملكة نواكشوط malika apartments nouakchott appartements malika nouakchott nouakchott توفر لكم شقق مليكة تجربة اقامة مريحة وامنة في قلب نواكشوط عرفات تتميز هذه الشقق بتصميم عصري واثاث فاخر وهي مجهزة بكافة وسايل الراحة الضرورية بما في ذلك مطبخ مجهز بالكامل واتصال انترنت عالي السرعة",
+    "searchText": "شقق ملكة نواكشوط malika apartments nouakchott appartements malika nouakchott nouakchott عرفات توفر لكم شقق مليكة تجربة اقامة مريحة وامنة في قلب نواكشوط عرفات تتميز هذه الشقق بتصميم عصري واثاث فاخر وهي مجهزة بكافة وسايل الراحة الضرورية بما في ذلك مطبخ مجهز بالكامل واتصال انترنت عالي السرعة",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -2477,7 +2477,7 @@
       "fr": "Appartements Meublés (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة",
     "rawLocation": "الموقع: انواكشوط _ تفرغ زينة",
     "description": {
       "original": "شقق مريحة وعصرية في انواكشوط تفرغ زينة، مفروشة بالكامل وتوفر جميع وسائل الراحة الأساسية مع سهولة الوصول إلى المعالم المحلية. مثالية للإقامات القصيرة أو الطويلة.\n\nاحجز عبر واتساب",
@@ -2522,9 +2522,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2000,
     "sourceUrl": "https://2hlen.com/appartements-meublesnktt/",
-    "searchText": "شقق مفروشة نواكشوط furnished apartments nouakchott appartements meubles nouakchott nouakchott شقق مريحة وعصرية في انواكشوط تفرغ زينة مفروشة بالكامل وتوفر جميع وسايل الراحة الاساسية مع سهولة الوصول الى المعالم المحلية مثالية للاقامات القصيرة او الطويلة احجز عبر واتساب",
+    "searchText": "شقق مفروشة نواكشوط furnished apartments nouakchott appartements meubles nouakchott nouakchott تفرغ زينة شقق مريحة وعصرية في انواكشوط تفرغ زينة مفروشة بالكامل وتوفر جميع وسايل الراحة الاساسية مع سهولة الوصول الى المعالم المحلية مثالية للاقامات القصيرة او الطويلة احجز عبر واتساب",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -2542,7 +2542,7 @@
       "fr": "Appartements Luxeria (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة سيت بلاج",
     "rawLocation": "موقع الشقق: انواكشوط _ سيت بلاج",
     "description": {
       "original": "لوكسيريا هو مجمع شقق فاخر يقع في قلب نواكشوط، ويقدم مزيجًا راقيًا من التصميم الحديث والراحة الأنيقة. تم تصميم كل شقة بعناية بتشطيبات راقية ومساحات داخلية واسعة ووسائل راحة حديثة لتوفير تجربة معيشية هادئة وفاخرة.\n\nتواصل معنا",
@@ -2625,9 +2625,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 3000,
     "sourceUrl": "https://2hlen.com/appartements-luxeria-nktt/",
-    "searchText": "شقق لوكسيريا نواكشوط luxeria apartments nouakchott appartements luxeria nouakchott nouakchott لوكسيريا هو مجمع شقق فاخر يقع في قلب نواكشوط ويقدم مزيجا راقيا من التصميم الحديث والراحة الانيقة تم تصميم كل شقة بعناية بتشطيبات راقية ومساحات داخلية واسعة ووسايل راحة حديثة لتوفير تجربة معيشية ها",
+    "searchText": "شقق لوكسيريا نواكشوط luxeria apartments nouakchott appartements luxeria nouakchott nouakchott تفرغ زينة سيت بلاج لوكسيريا هو مجمع شقق فاخر يقع في قلب نواكشوط ويقدم مزيجا راقيا من التصميم الحديث والراحة الانيقة تم تصميم كل شقة بعناية بتشطيبات راقية ومساحات داخلية واسعة ووسايل راحة حديثة لتوفير تجربة معيشية ها",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -2645,7 +2645,7 @@
       "fr": "Appartements Al Qasr (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة",
     "rawLocation": "موقع الشقق: انواكشوط _ تفرغ زينة",
     "description": {
       "original": "توفر شقق القصر في نواكشوط إقامة مريحة وحديثة في قلب المدينة. كل وحدة مفروشة بالكامل، مع مساحات معيشة واسعة ومطابخ مجهزة تجهيزًا جيدًا ووسائل راحة عصرية لإقامة ممتعة. مثالية للزوار لفترات قصيرة أو للمقيمين لفترات طويلة، توفر شقق القصر توازنًا مثاليًا بين الفخامة والراحة، مما يضمن إقامة هادئة في نواكشوط.\n\nتواصل معنا",
@@ -2733,9 +2733,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2500,
     "sourceUrl": "https://2hlen.com/appartements-al-qasr-nktt/",
-    "searchText": "شقق القصر نواكشوط al qasr apartments nouakchott appartements al qasr nouakchott nouakchott توفر شقق القصر في نواكشوط اقامة مريحة وحديثة في قلب المدينة كل وحدة مفروشة بالكامل مع مساحات معيشة واسعة ومطابخ مجهزة تجهيزا جيدا ووسايل راحة عصرية لاقامة ممتعة مثالية للزوار لفترات قصيرة او للمق",
+    "searchText": "شقق القصر نواكشوط al qasr apartments nouakchott appartements al qasr nouakchott nouakchott تفرغ زينة توفر شقق القصر في نواكشوط اقامة مريحة وحديثة في قلب المدينة كل وحدة مفروشة بالكامل مع مساحات معيشة واسعة ومطابخ مجهزة تجهيزا جيدا ووسايل راحة عصرية لاقامة ممتعة مثالية للزوار لفترات قصيرة او للمق",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -2753,7 +2753,7 @@
       "fr": "Appartements Mata (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة  سانتر متير",
     "rawLocation": "موقع الشقق: انواكشوط سانتر متير",
     "description": {
       "original": "\"Les Appartements Mata, situés au cœur de Nouakchott, offrent des espaces de vie confortables et entièrement meublés pour des séjours de courte ou longue durée. Avec des équipements modernes, des chambres spacieuses et un emplacement privilégié, les Appartements Mata offrent un équilibre parfait entre confort et commodité pour les voyageurs et les résidents.\"\n\nاحجز عبر واتساب",
@@ -2879,9 +2879,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1500,
     "sourceUrl": "https://2hlen.com/residence-mata-nktt/",
-    "searchText": "شقق ماتا نواكشوط mata apartments nouakchott appartements mata nouakchott nouakchott les appartements mata situes au cœur de nouakchott offrent des espaces de vie confortables et entierement meubles pour des sejours de courte ou longue duree avec des equipements modernes des cham",
+    "searchText": "شقق ماتا نواكشوط mata apartments nouakchott appartements mata nouakchott nouakchott تفرغ زينة سانتر متير les appartements mata situes au cœur de nouakchott offrent des espaces de vie confortables et entierement meubles pour des sejours de courte ou longue duree avec des equipements modernes des cham",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -2899,7 +2899,7 @@
       "fr": "ici Nouakchott Appartements (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة سيت بلاج",
     "rawLocation": "موقع الشقق: انواكشوط - سيت بلاج",
     "description": {
       "original": "\"**Ici Nouakchott** تقدم شقق فاخرة مجهزة بالكامل في قلب انواكشوط. مثالية للإقامات الطويلة أو القصيرة، هذه الشقق تجمع بين الراحة والأناقة لتلبية احتياجات المسافرين، سواء كانوا في رحلة عمل أو للترفيه. بفضل موقعها المثالي، يمكنك الوصول بسهولة إلى المعالم والمرافق الرئيسية في المدينة مع الاستمتاع بجو دافئ ومضياف.\"\n\nاحجز عبر واتساب",
@@ -2969,9 +2969,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1750,
     "sourceUrl": "https://2hlen.com/appartements-ici-nouakchott-nktt/",
-    "searchText": "شقق اي سي نواكشوط نواكشوط ici nouakchott apartments nouakchott ici nouakchott appartements nouakchott nouakchott ici nouakchott تقدم شقق فاخرة مجهزة بالكامل في قلب انواكشوط مثالية للاقامات الطويلة او القصيرة هذه الشقق تجمع بين الراحة والاناقة لتلبية احتياجات المسافرين سواء كانوا في رحلة عمل او للترفيه ب",
+    "searchText": "شقق اي سي نواكشوط نواكشوط ici nouakchott apartments nouakchott ici nouakchott appartements nouakchott nouakchott تفرغ زينة سيت بلاج ici nouakchott تقدم شقق فاخرة مجهزة بالكامل في قلب انواكشوط مثالية للاقامات الطويلة او القصيرة هذه الشقق تجمع بين الراحة والاناقة لتلبية احتياجات المسافرين سواء كانوا في رحلة عمل او للترفيه ب",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -2989,7 +2989,7 @@
       "fr": "Appartements Al Afaf (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "توجنين",
     "rawLocation": "موقع الشقق: انواكشوط _ توجنين",
     "description": {
       "original": "تقع شقق العفاف في قلب نواكشوط، وتوفر خدمات فاخرة وإقامة مريحة. تتمتع الشقق بموقع استراتيجي بالقرب من المرافق الأساسية، مع غرف مجهزة تجهيزًا جيدًا، وخدمة عملاء ممتازة، ومرافق تضمن تجربة فريدة لجميع الزوار.\n\n1500 MRU / ليلة\n\nاحجز عبر واتساب",
@@ -3038,9 +3038,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1500,
     "sourceUrl": "https://2hlen.com/appartements-al-afaf-nktt/",
-    "searchText": "شقق العفاف نواكشوط al afaf apartments nouakchott appartements al afaf nouakchott nouakchott تقع شقق العفاف في قلب نواكشوط وتوفر خدمات فاخرة واقامة مريحة تتمتع الشقق بموقع استراتيجي بالقرب من المرافق الاساسية مع غرف مجهزة تجهيزا جيدا وخدمة عملاء ممتازة ومرافق تضمن تجربة فريدة لجميع الز",
+    "searchText": "شقق العفاف نواكشوط al afaf apartments nouakchott appartements al afaf nouakchott nouakchott توجنين تقع شقق العفاف في قلب نواكشوط وتوفر خدمات فاخرة واقامة مريحة تتمتع الشقق بموقع استراتيجي بالقرب من المرافق الاساسية مع غرف مجهزة تجهيزا جيدا وخدمة عملاء ممتازة ومرافق تضمن تجربة فريدة لجميع الز",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -3058,7 +3058,7 @@
       "fr": "Appartements Tayba (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "الفلوجة",
     "rawLocation": "موقع الشقق: نواكشوط _ الفالوجة",
     "description": {
       "original": "شقق طيبة في نواكشوط الفالوجة توفر وحدات مفروشة بالكامل ومريحة مع وسائل الراحة الحديثة، مما يجعلها مثالية للإقامة القصيرة أو الطويلة. تقع في منطقة مميزة، وتتميز بمساحات معيشة واسعة وأجواء مرحبة لضمان إقامة ممتعة ومريحة في قلب العاصمة الموريتانية.\n\nاحجز عبر واتساب",
@@ -3112,9 +3112,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1500,
     "sourceUrl": "https://2hlen.com/appartements-tayba-nktt/",
-    "searchText": "شقق طيبة نواكشوط tayba apartments nouakchott appartements tayba nouakchott nouakchott شقق طيبة في نواكشوط الفالوجة توفر وحدات مفروشة بالكامل ومريحة مع وسايل الراحة الحديثة مما يجعلها مثالية للاقامة القصيرة او الطويلة تقع في منطقة مميزة وتتميز بمساحات معيشة واسعة واجواء مرحبة لضمان ا",
+    "searchText": "شقق طيبة نواكشوط tayba apartments nouakchott appartements tayba nouakchott nouakchott الفلوجة شقق طيبة في نواكشوط الفالوجة توفر وحدات مفروشة بالكامل ومريحة مع وسايل الراحة الحديثة مما يجعلها مثالية للاقامة القصيرة او الطويلة تقع في منطقة مميزة وتتميز بمساحات معيشة واسعة واجواء مرحبة لضمان ا",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -3132,7 +3132,7 @@
       "fr": "Appartements Habouba (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة البوادي",
     "rawLocation": "Nouakchott Al Bawadi",
     "description": {
       "original": "Les appartements Habouba à Nouakchott offrent un séjour luxueux et confortable avec un design moderne et des services de qualité, y compris le Wi-Fi gratuit et un service de nettoyage quotidien. Ils sont situés dans un emplacement stratégique à proximité des lieux clés de la ville, faisant d'eux le choix idéal pour le confort et la tranquillité.\n\nRéserver via WhatsApp",
@@ -3227,9 +3227,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1700,
     "sourceUrl": "https://2hlen.com/appartements-habouba-nktt/",
-    "searchText": "شقق حبوبة نواكشوط habouba apartments nouakchott appartements habouba nouakchott nouakchott les appartements habouba a nouakchott offrent un sejour luxueux et confortable avec un design moderne et des services de qualite y compris le wi fi gratuit et un service de nettoyage quotidien ils s",
+    "searchText": "شقق حبوبة نواكشوط habouba apartments nouakchott appartements habouba nouakchott nouakchott تفرغ زينة البوادي les appartements habouba a nouakchott offrent un sejour luxueux et confortable avec un design moderne et des services de qualite y compris le wi fi gratuit et un service de nettoyage quotidien ils s",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -3247,7 +3247,7 @@
       "fr": "Appartements Socogim (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "عين الطلح",
     "rawLocation": "Nouakchott Ain Talh",
     "description": {
       "original": "Sokogim Appartements, des appartements meublés de luxe à louer au cœur de Nouakchott. Ils se distinguent par leur emplacement privilégié à proximité des services essentiels et des marchés. Les appartements offrent confort et intimité avec des équipements modernes et un design contemporain, ce qui en fait le choix idéal pour un séjour professionnel ou de loisirs.\n\nRéserver via WhatsApp",
@@ -3286,9 +3286,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1500,
     "sourceUrl": "https://2hlen.com/appartements-socogim-nktt/",
-    "searchText": "شقق سوكوجيم نواكشوط socogim apartments nouakchott appartements socogim nouakchott nouakchott sokogim appartements des appartements meubles de luxe a louer au cœur de nouakchott ils se distinguent par leur emplacement privilegie a proximite des services essentiels et des marches les apparte",
+    "searchText": "شقق سوكوجيم نواكشوط socogim apartments nouakchott appartements socogim nouakchott nouakchott عين الطلح sokogim appartements des appartements meubles de luxe a louer au cœur de nouakchott ils se distinguent par leur emplacement privilegie a proximite des services essentiels et des marches les apparte",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -3306,7 +3306,7 @@
       "fr": "Appartements Cap Blanc (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": "Nouadhibou Dubai",
     "description": {
       "original": "Situés au cœur de Nouadhibou, les appartements Cap Blanc offrent un confort moderne et un emplacement idéal à proximité des commerces et des attractions locales. Ces appartements meublés sont parfaits pour des séjours professionnels ou de détente, vous permettant de profiter du calme dans un cadre chaleureux tout en restant connecté à la vie dynamique de la ville.\n\nRéserver via WhatsApp",
@@ -3372,9 +3372,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1350,
     "sourceUrl": "https://2hlen.com/appartements-cap_blanc-ndb/",
-    "searchText": "شقق الراس الابيض نواذيبو cap blanc apartments nouadhibou appartements cap blanc nouadhibou nouadhibou situes au cœur de nouadhibou les appartements cap blanc offrent un confort moderne et un emplacement ideal a proximite des commerces et des attractions locales ces appartements meubles sont parfaits",
+    "searchText": "شقق الراس الابيض نواذيبو cap blanc apartments nouadhibou appartements cap blanc nouadhibou nouadhibou دبي situes au cœur de nouadhibou les appartements cap blanc offrent un confort moderne et un emplacement ideal a proximite des commerces et des attractions locales ces appartements meubles sont parfaits",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -3392,7 +3392,7 @@
       "fr": "Appartements Al Waha (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة  سانتر متير",
     "rawLocation": "Nouakchott, Centre Emeteur",
     "description": {
       "original": "Les Appartements Al Waha offrent des espaces de vie modernes et entièrement meublés au cœur de Nouakchott. Profitez du confort, de la commodité et des meilleurs équipements, à proximité des principales attractions et des centres commerciaux. Idéal pour les séjours courts et longs.\n\nRéserver via WhatsApp",
@@ -3425,9 +3425,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2500,
     "sourceUrl": "https://2hlen.com/appartements-al-waha-nktt/",
-    "searchText": "شقق الواحة نواكشوط al waha apartments nouakchott appartements al waha nouakchott nouakchott les appartements al waha offrent des espaces de vie modernes et entierement meubles au cœur de nouakchott profitez du confort de la commodite et des meilleurs equipements a proximite des principale",
+    "searchText": "شقق الواحة نواكشوط al waha apartments nouakchott appartements al waha nouakchott nouakchott تفرغ زينة سانتر متير les appartements al waha offrent des espaces de vie modernes et entierement meubles au cœur de nouakchott profitez du confort de la commodite et des meilleurs equipements a proximite des principale",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -3445,7 +3445,7 @@
       "fr": "Appartements Al Cham"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة",
     "rawLocation": "Nouakchott Tavragh Zeine",
     "description": {
       "original": "\"Al Cham Apartments\" à Nouakchott offrent des espaces de vie modernes et confortables, conçus pour des séjours de courte ou longue durée. Situés au cœur de la ville, ces appartements entièrement meublés disposent de tous les équipements essentiels, y compris la climatisation et un parking sécurisé, assurant une expérience agréable et pratique pour les voyageurs d'affaires et de loisirs.\n\nRéserver via WhatsApp",
@@ -3492,9 +3492,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2000,
     "sourceUrl": "https://2hlen.com/appartements-al-cham-nktt/",
-    "searchText": "شقق الشام al cham apartments appartements al cham nouakchott al cham apartments a nouakchott offrent des espaces de vie modernes et confortables concus pour des sejours de courte ou longue duree situes au cœur de la ville ces appartements entierement meubl",
+    "searchText": "شقق الشام al cham apartments appartements al cham nouakchott تفرغ زينة al cham apartments a nouakchott offrent des espaces de vie modernes et confortables concus pour des sejours de courte ou longue duree situes au cœur de la ville ces appartements entierement meubl",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -3512,7 +3512,7 @@
       "fr": "Appartements Al Ansar (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة سيت بلاج",
     "rawLocation": "Nouakchott Cité Plage",
     "description": {
       "original": "**Appartements Al Ansar**\n\nDes appartements modernes et entièrement meublés au centre de Nouakchott, offrant un séjour confortable avec climatisation, et cuisine bien équipée. Idéal pour des séjours courts ou longs, avec un emplacement pratique à proximité des principales attractions.\n\nRéserver via WhatsApp",
@@ -3559,9 +3559,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2000,
     "sourceUrl": "https://2hlen.com/appartements-al-ansar-nktt/",
-    "searchText": "شقق الانصار نواكشوط al ansar apartments nouakchott appartements al ansar nouakchott nouakchott appartements al ansar des appartements modernes et entierement meubles au centre de nouakchott offrant un sejour confortable avec climatisation et cuisine bien equipee ideal pour des sejours c",
+    "searchText": "شقق الانصار نواكشوط al ansar apartments nouakchott appartements al ansar nouakchott nouakchott تفرغ زينة سيت بلاج appartements al ansar des appartements modernes et entierement meubles au centre de nouakchott offrant un sejour confortable avec climatisation et cuisine bien equipee ideal pour des sejours c",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -3579,7 +3579,7 @@
       "fr": "Appartements Sahari (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة",
     "rawLocation": "Nouakchott Tavragh Zeine",
     "description": {
       "original": "Appartement Sahari : Profitez du confort d'une maison en plein cœur de Nouakchott. Notre appartement bien meublé offre des équipements modernes, une ambiance sereine et un accès facile aux attractions locales. Parfait pour les séjours courts ou longs, Sahari est votre refuge idéal dans la vibrante capitale de la Mauritanie.\n\nRéserver via WhatsApp",
@@ -3616,9 +3616,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1500,
     "sourceUrl": "https://2hlen.com/appartements-sahari-nktt/",
-    "searchText": "شقق الصحراوي نواكشوط sahari apartments nouakchott appartements sahari nouakchott nouakchott appartement sahari profitez du confort d une maison en plein cœur de nouakchott notre appartement bien meuble offre des equipements modernes une ambiance sereine et un acces facile aux attractions",
+    "searchText": "شقق الصحراوي نواكشوط sahari apartments nouakchott appartements sahari nouakchott nouakchott تفرغ زينة appartement sahari profitez du confort d une maison en plein cœur de nouakchott notre appartement bien meuble offre des equipements modernes une ambiance sereine et un acces facile aux attractions",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -3636,7 +3636,7 @@
       "fr": "Appartements Nomade House (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة طريق نواذيبو",
     "rawLocation": "Nouakchott, Route Nouadhibou",
     "description": {
       "original": "Chambres confortables, excellent emplacement, bon service. Profitez de votre séjour à les appartements Nomade house à Nouakchott\n\nRéserver via WhatsApp",
@@ -3696,9 +3696,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1850,
     "sourceUrl": "https://2hlen.com/appartements-nomade-house-nktt/",
-    "searchText": "شقق نوماد هاوس نواكشوط nomade house apartments nouakchott appartements nomade house nouakchott nouakchott chambres confortables excellent emplacement bon service profitez de votre sejour a les appartements nomade house a nouakchott reserver via whatsapp",
+    "searchText": "شقق نوماد هاوس نواكشوط nomade house apartments nouakchott appartements nomade house nouakchott nouakchott تفرغ زينة طريق نواذيبو chambres confortables excellent emplacement bon service profitez de votre sejour a les appartements nomade house a nouakchott reserver via whatsapp",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -3716,7 +3716,7 @@
       "fr": "Appartements Grand Plaza (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة",
     "rawLocation": "موقع: انواكشوط",
     "description": {
       "original": "Chambres confortables, excellent emplacement, bon service. Profitez de votre séjour à les appartements plaza à Nouakchott\n\nاحجز عبر واتساب",
@@ -3791,9 +3791,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1600,
     "sourceUrl": "https://2hlen.com/appartements-grand-plaza-nktt/",
-    "searchText": "شقق جراند بلازا نواكشوط grand plaza apartments nouakchott appartements grand plaza nouakchott nouakchott chambres confortables excellent emplacement bon service profitez de votre sejour a les appartements plaza a nouakchott احجز عبر واتساب",
+    "searchText": "شقق جراند بلازا نواكشوط grand plaza apartments nouakchott appartements grand plaza nouakchott nouakchott تفرغ زينة chambres confortables excellent emplacement bon service profitez de votre sejour a les appartements plaza a nouakchott احجز عبر واتساب",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -3811,7 +3811,7 @@
       "fr": "Appartements Tadamoun (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "عين الطلح",
     "rawLocation": "موقع: انواكشوط _ عين الطلح",
     "description": {
       "original": "\"Suites Hôtelières Al-Tadamon à Nouakchott : un hébergement raffiné offrant confort et intimité, avec un emplacement privilégié et des services de haute qualité. Le choix idéal pour le séjour et le travail.\"\n\nاحجز عبر واتساب",
@@ -3921,9 +3921,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1600,
     "sourceUrl": "https://2hlen.com/hotel-tadamoun-nktt/",
-    "searchText": "شقق تدمون نواكشوط tadamoun apartments nouakchott appartements tadamoun nouakchott nouakchott suites hotelieres al tadamon a nouakchott un hebergement raffine offrant confort et intimite avec un emplacement privilegie et des services de haute qualite le choix ideal pour le sejour et le tr",
+    "searchText": "شقق تدمون نواكشوط tadamoun apartments nouakchott appartements tadamoun nouakchott nouakchott عين الطلح suites hotelieres al tadamon a nouakchott un hebergement raffine offrant confort et intimite avec un emplacement privilegie et des services de haute qualite le choix ideal pour le sejour et le tr",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -3941,7 +3941,7 @@
       "fr": "Appartements Blue Star (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة البوادي",
     "rawLocation": "Nouakchott, Al Bawadi",
     "description": {
       "original": "Appartements blue star - Réservation confort et luxe au coeur de Nouakchott. Site distingué. Appartements de luxe | Services distinctifs | Prix ​​compétitifs.\n\nRéserver via WhatsApp",
@@ -3980,9 +3980,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1800,
     "sourceUrl": "https://2hlen.com/appartements-blue-star/",
-    "searchText": "شقق بلو ستار نواكشوط blue star apartments nouakchott appartements blue star nouakchott nouakchott appartements blue star reservation confort et luxe au coeur de nouakchott site distingue appartements de luxe services distinctifs prix competitifs reserver via whatsapp",
+    "searchText": "شقق بلو ستار نواكشوط blue star apartments nouakchott appartements blue star nouakchott nouakchott تفرغ زينة البوادي appartements blue star reservation confort et luxe au coeur de nouakchott site distingue appartements de luxe services distinctifs prix competitifs reserver via whatsapp",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -4000,7 +4000,7 @@
       "fr": "Appartements Saad 2 (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة الصحراوي",
     "rawLocation": "موقع: انواكشوط _ الصحراوي",
     "description": {
       "original": "شقق السعد 2: حجز مريح وفاخر في قلب نواكشوط. موقع متميز، شقق فاخرة، خدمات مميزة، وأسعار تنافسية.\n\nاحجز عبر واتساب",
@@ -4055,9 +4055,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2000,
     "sourceUrl": "https://2hlen.com/appartements-saad-2-nktt/",
-    "searchText": "شقق سعد 2 نواكشوط saad 2 apartments nouakchott appartements saad 2 nouakchott nouakchott شقق السعد 2 حجز مريح وفاخر في قلب نواكشوط موقع متميز شقق فاخرة خدمات مميزة واسعار تنافسية احجز عبر واتساب",
+    "searchText": "شقق سعد 2 نواكشوط saad 2 apartments nouakchott appartements saad 2 nouakchott nouakchott تفرغ زينة الصحراوي شقق السعد 2 حجز مريح وفاخر في قلب نواكشوط موقع متميز شقق فاخرة خدمات مميزة واسعار تنافسية احجز عبر واتساب",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -4075,7 +4075,7 @@
       "fr": "Appartements Ain Talh (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "عين الطلح",
     "rawLocation": "Nouakchott, Ain Talh",
     "description": {
       "original": "Appartements spacieux et entièrement équipés à Nouakchott. Emplacement privilégié à proximité des principaux monuments. Des prix raisonnables pour tous les budgets.\n\nRéserver via WhatsApp",
@@ -4122,9 +4122,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2000,
     "sourceUrl": "https://2hlen.com/appartements-ain-talh-nktt/",
-    "searchText": "شقق عين الطلح نواكشوط ain talh apartments nouakchott appartements ain talh nouakchott nouakchott appartements spacieux et entierement equipes a nouakchott emplacement privilegie a proximite des principaux monuments des prix raisonnables pour tous les budgets reserver via whatsapp",
+    "searchText": "شقق عين الطلح نواكشوط ain talh apartments nouakchott appartements ain talh nouakchott nouakchott عين الطلح appartements spacieux et entierement equipes a nouakchott emplacement privilegie a proximite des principaux monuments des prix raisonnables pour tous les budgets reserver via whatsapp",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -4142,7 +4142,7 @@
       "fr": "Appartements Marieme (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة",
     "rawLocation": "Nouakchott, Tavragh Zeine",
     "description": {
       "original": "Appartements spacieux et entièrement équipés à Nouakchott. Emplacement privilégié à proximité des principaux monuments. Des prix raisonnables pour tous les budgets.\n\nRéserver via WhatsApp",
@@ -4207,9 +4207,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2000,
     "sourceUrl": "https://2hlen.com/appartements-marieme-nktt/",
-    "searchText": "شقق مريم نواكشوط marieme apartments nouakchott appartements marieme nouakchott nouakchott appartements spacieux et entierement equipes a nouakchott emplacement privilegie a proximite des principaux monuments des prix raisonnables pour tous les budgets reserver via whatsapp",
+    "searchText": "شقق مريم نواكشوط marieme apartments nouakchott appartements marieme nouakchott nouakchott تفرغ زينة appartements spacieux et entierement equipes a nouakchott emplacement privilegie a proximite des principaux monuments des prix raisonnables pour tous les budgets reserver via whatsapp",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -4227,7 +4227,7 @@
       "fr": "Appartements Luxe (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": "Nouadhibou, Dubai",
     "description": {
       "original": "Confort de luxe à Nouadhibou. Appartements meublés avec de charmantes vues. Des installations distinctives et des services complets.\n\nRéserver via WhatsApp",
@@ -4268,7 +4268,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/appartements-luxe-ndb/",
-    "searchText": "شقق لوكس نواذيبو luxe apartments nouadhibou appartements luxe nouadhibou nouadhibou confort de luxe a nouadhibou appartements meubles avec de charmantes vues des installations distinctives et des services complets reserver via whatsapp",
+    "searchText": "شقق لوكس نواذيبو luxe apartments nouadhibou appartements luxe nouadhibou nouadhibou دبي confort de luxe a nouadhibou appartements meubles avec de charmantes vues des installations distinctives et des services complets reserver via whatsapp",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -4286,7 +4286,7 @@
       "fr": "Appartements Al Khaima 2 (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": "Nouadhibou, Dubai",
     "description": {
       "original": "Confort de luxe à Nouadhibou. Appartements meublés avec de charmantes vues. Des installations distinctives et des services complets.\n\nRéserver via WhatsApp",
@@ -4331,7 +4331,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/appartements-al-khaima-2-ndb/",
-    "searchText": "شقق الخيمة 2 نواذيبو al khaima 2 nouadhibou appartements al khaima 2 nouadhibou nouadhibou confort de luxe a nouadhibou appartements meubles avec de charmantes vues des installations distinctives et des services complets reserver via whatsapp",
+    "searchText": "شقق الخيمة 2 نواذيبو al khaima 2 nouadhibou appartements al khaima 2 nouadhibou nouadhibou دبي confort de luxe a nouadhibou appartements meubles avec de charmantes vues des installations distinctives et des services complets reserver via whatsapp",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -4349,7 +4349,7 @@
       "fr": "Plage de Repos (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": "Nouadhibou - Dubaï",
     "description": {
       "original": "Appartements meublés avec de charmantes vues. Des installations distinctives et des services complets. Profitez du calme et du confort de luxe à Nouadhibou.\n\nRéserver via WhatsApp",
@@ -4388,7 +4388,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/appartements-plage-de-repos-ndb/",
-    "searchText": "شقق شاطي الراحة نواذيبو plage de repos nouadhibou plage de repos nouadhibou nouadhibou appartements meubles avec de charmantes vues des installations distinctives et des services complets profitez du calme et du confort de luxe a nouadhibou reserver via whatsapp",
+    "searchText": "شقق شاطي الراحة نواذيبو plage de repos nouadhibou plage de repos nouadhibou nouadhibou دبي appartements meubles avec de charmantes vues des installations distinctives et des services complets profitez du calme et du confort de luxe a nouadhibou reserver via whatsapp",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -4406,7 +4406,7 @@
       "fr": "Appartements Al Sadaka (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "عرفات",
     "rawLocation": "Nouakchott, Arafat",
     "description": {
       "original": "Situation exceptionnelle. Appartements spacieux et confortables. Prix compétitifs. Idéal pour les familles et les individus. Confort, sécurité, excellence.\n\nRéserver via WhatsApp",
@@ -4447,7 +4447,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/appartements-al-sadaka/",
-    "searchText": "شقق الصداقة نواكشوط al sadaka apartments nouakchott appartements al sadaka nouakchott nouakchott situation exceptionnelle appartements spacieux et confortables prix competitifs ideal pour les familles et les individus confort securite excellence reserver via whatsapp",
+    "searchText": "شقق الصداقة نواكشوط al sadaka apartments nouakchott appartements al sadaka nouakchott nouakchott عرفات situation exceptionnelle appartements spacieux et confortables prix competitifs ideal pour les familles et les individus confort securite excellence reserver via whatsapp",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -4465,7 +4465,7 @@
       "fr": "Appartements Diyafah (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة  الصحراوي",
     "rawLocation": "Nouakchott, Al Sahrawi",
     "description": {
       "original": "Appartements meublés Al Diyafah : Appartements spacieux et entièrement équipés à Nouakchott. Emplacement privilégié à proximité des principaux monuments. Des prix raisonnables pour tous les budgets.\n\nRéserver via WhatsApp",
@@ -4528,9 +4528,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2000,
     "sourceUrl": "https://2hlen.com/appartements-diyafah-nktt/",
-    "searchText": "شقق ضيافة نواكشوط diyafah apartments nouakchott appartements diyafah nouakchott nouakchott appartements meubles al diyafah appartements spacieux et entierement equipes a nouakchott emplacement privilegie a proximite des principaux monuments des prix raisonnables pour tous les budgets",
+    "searchText": "شقق ضيافة نواكشوط diyafah apartments nouakchott appartements diyafah nouakchott nouakchott تفرغ زينة الصحراوي appartements meubles al diyafah appartements spacieux et entierement equipes a nouakchott emplacement privilegie a proximite des principaux monuments des prix raisonnables pour tous les budgets",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -4548,7 +4548,7 @@
       "fr": "Appartements Al Khadra (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة",
     "rawLocation": "Nouakchott, Tavragh Zeine",
     "description": {
       "original": "Appartements Al khadraa : Nouakchott Meublé. Confort. Prestations de service. Prix ​​spéciaux. Appartements spacieux, emplacement privilégié, services complets.\n\nRéserver via WhatsApp",
@@ -4583,9 +4583,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1000,
     "sourceUrl": "https://2hlen.com/appartements-al-khadraa-nktt/",
-    "searchText": "شقق الخضراء نواكشوط al khadra apartments nouakchott appartements al khadra nouakchott nouakchott appartements al khadraa nouakchott meuble confort prestations de service prix speciaux appartements spacieux emplacement privilegie services complets reserver via whatsapp",
+    "searchText": "شقق الخضراء نواكشوط al khadra apartments nouakchott appartements al khadra nouakchott nouakchott تفرغ زينة appartements al khadraa nouakchott meuble confort prestations de service prix speciaux appartements spacieux emplacement privilegie services complets reserver via whatsapp",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -4603,7 +4603,7 @@
       "fr": "Home Sweet Home (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة",
     "rawLocation": "Nouakchott, Tavragh Zeine",
     "description": {
       "original": "Appartements HOME SWEET HOME : luxe et confort au cœur de Nouakchott. Appartements spacieux et lumineux au design moderne. Un emplacement privilégié à proximité de tous les services. Finitions de haute qualité et équipements modernes qui garantissent votre confort et votre luxe.\n\nRéserver via WhatsApp",
@@ -4668,9 +4668,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2000,
     "sourceUrl": "https://2hlen.com/appartements-home-sweet-home-nktt/",
-    "searchText": "شقق هوم سويت هوم نواكشوط home sweet home nouakchott home sweet home nouakchott nouakchott appartements home sweet home luxe et confort au cœur de nouakchott appartements spacieux et lumineux au design moderne un emplacement privilegie a proximite de tous les services finitions de haut",
+    "searchText": "شقق هوم سويت هوم نواكشوط home sweet home nouakchott home sweet home nouakchott nouakchott تفرغ زينة appartements home sweet home luxe et confort au cœur de nouakchott appartements spacieux et lumineux au design moderne un emplacement privilegie a proximite de tous les services finitions de haut",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -4826,7 +4826,7 @@
       "fr": "Hayatt Annexe (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة",
     "rawLocation": "Nouakchott, Tavragh Zeine",
     "description": {
       "original": "Hayatt Annexe, situé à Nouakchott, est idéal pour découvrir la ville. Il se trouve à moins de 15 minutes à pied du Stade Olympique et de l'Artisanal, à 1,8 km de la Grande Mosquée et à 1,9 km du Marché aux Khaimas. L'hôtel dispose d'un restaurant, d'un café, et d'un bar/lounge. Un petit-déjeuner complet gratuit est servi tous les jours de 7h00 à 11h00. Les installations comprennent un service de nettoyage à sec, une réception ouverte 24h/24, et du café/thé dans les espaces publics. Un parking gratuit est disponible sur place. Les 19 chambres, décorées individuellement, offrent un accès Wi-Fi gratuit, un coffre-fort, un coin salon séparé et un service de ménage quotidien.\n\nRéserver via WhatsApp",
@@ -4924,9 +4924,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 3100,
     "sourceUrl": "https://2hlen.com/appartements-hayatt-annexe/",
-    "searchText": "شقق حياة انكس نواكشوط hayatt annexe nouakchott hayatt annexe nouakchott nouakchott hayatt annexe situe a nouakchott est ideal pour decouvrir la ville il se trouve a moins de 15 minutes a pied du stade olympique et de l artisanal a 1 8 km de la grande mosquee et a 1 9 km du march",
+    "searchText": "شقق حياة انكس نواكشوط hayatt annexe nouakchott hayatt annexe nouakchott nouakchott تفرغ زينة hayatt annexe situe a nouakchott est ideal pour decouvrir la ville il se trouve a moins de 15 minutes a pied du stade olympique et de l artisanal a 1 8 km de la grande mosquee et a 1 9 km du march",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -4944,7 +4944,7 @@
       "fr": "Appartements Lusail (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة",
     "rawLocation": "Nouakchott, Tavragh Zeine",
     "description": {
       "original": "La Résidence Lusail est idéalement située au cœur de Nouakchott, proche de toutes les commodités : centres commerciaux, écoles, hôpitaux, restaurants, cafés et transports en commun. Elle propose des appartements spacieux et confortables, du studio aux trois chambres, avec un design moderne et des équipements de haute qualité : cuisines équipées, salles de bains privatives, chambres et salons confortables, balcons ou terrasses, et climatisation.\n\nRéserver via WhatsApp",
@@ -4987,9 +4987,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2000,
     "sourceUrl": "https://2hlen.com/__appartements-lusail-nktt/",
-    "searchText": "شقق لوسيل نواكشوط lusail apartments nouakchott appartements lusail nouakchott nouakchott la residence lusail est idealement situee au cœur de nouakchott proche de toutes les commodites centres commerciaux ecoles hopitaux restaurants cafes et transports en commun elle propose des a",
+    "searchText": "شقق لوسيل نواكشوط lusail apartments nouakchott appartements lusail nouakchott nouakchott تفرغ زينة la residence lusail est idealement situee au cœur de nouakchott proche de toutes les commodites centres commerciaux ecoles hopitaux restaurants cafes et transports en commun elle propose des a",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -5007,7 +5007,7 @@
       "fr": "Appartements Salem (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": "موقع الشقق: انواذيبو _ دبي",
     "description": {
       "original": "شقق سلم: شقق مفروشة للإيجار في نواذيبو. موقع مميز، خدمات شاملة، راحة تامة.\n\nشقق سلم:\n\n- شقق مفروشة حديثة.\n\n- موقع مثالي في نواذيبو.\n\n- خدمات شاملة.\n\n- أسعار تنافسية.\n\n- أمن على مدار الساعة.\n\nاحجز عبر واتساب",
@@ -5148,9 +5148,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 2900,
     "sourceUrl": "https://2hlen.com/appartements-salam/",
-    "searchText": "شقق سلم نواذيبو salem apartments nouadhibou appartements salem nouadhibou nouadhibou شقق سلم شقق مفروشة للايجار في نواذيبو موقع مميز خدمات شاملة راحة تامة شقق سلم شقق مفروشة حديثة موقع مثالي في نواذيبو خدمات شاملة اسعار تنافسية امن على مدار الساعة احجز عبر",
+    "searchText": "شقق سلم نواذيبو salem apartments nouadhibou appartements salem nouadhibou nouadhibou دبي شقق سلم شقق مفروشة للايجار في نواذيبو موقع مميز خدمات شاملة راحة تامة شقق سلم شقق مفروشة حديثة موقع مثالي في نواذيبو خدمات شاملة اسعار تنافسية امن على مدار الساعة احجز عبر",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -5168,7 +5168,7 @@
       "fr": "Appartements Al Wafa (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": null,
     "description": {
       "original": "Résidences Al Wafa Réservation Résidences Al Wafa à louer à Nouadhibou Emplacement privilégié, appartements modernes et spacieux, services complets, sécurité",
@@ -5184,7 +5184,7 @@
     },
     "price": null,
     "sourceUrl": "https://2hlen.com/residences-al-wafa/",
-    "searchText": "شقق الوفاء نواذيبو al wafa apartments nouadhibou appartements al wafa nouadhibou nouadhibou residences al wafa reservation residences al wafa a louer a nouadhibou emplacement privilegie appartements modernes et spacieux services complets securite",
+    "searchText": "شقق الوفاء نواذيبو al wafa apartments nouadhibou appartements al wafa nouadhibou nouadhibou دبي residences al wafa reservation residences al wafa a louer a nouadhibou emplacement privilegie appartements modernes et spacieux services complets securite",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -5202,7 +5202,7 @@
       "fr": "Appartements Galaxy (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": "موقع الشقق: نواذيبو _ دبي",
     "description": {
       "original": "شقق جالاكسي للإيجار في نواذيبو\n\nموقع ممتاز، مرافق حديثة، أمن على مدار 24 ساعة.\n\nشقق جالاكسي:\n\nشقق حديثة وواسعة بتصميم أنيق.\n\nقريبة من جميع الخدمات، مثل الأسواق والمطاعم والمدارس والمستشفيات والشواطئ.\n\nأمن على مدار 24 ساعة.\n\nاحجز عبر واتساب",
@@ -5292,9 +5292,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1300,
     "sourceUrl": "https://2hlen.com/appartements-galaxy/",
-    "searchText": "شقق جالاكسي نواذيبو galaxy apartments nouadhibou appartements galaxy nouadhibou nouadhibou شقق جالاكسي للايجار في نواذيبو موقع ممتاز مرافق حديثة امن على مدار 24 ساعة شقق جالاكسي شقق حديثة وواسعة بتصميم انيق قريبة من جميع الخدمات مثل الاسواق والمطاعم والمدارس والمستشفيات والشواطي",
+    "searchText": "شقق جالاكسي نواذيبو galaxy apartments nouadhibou appartements galaxy nouadhibou nouadhibou دبي شقق جالاكسي للايجار في نواذيبو موقع ممتاز مرافق حديثة امن على مدار 24 ساعة شقق جالاكسي شقق حديثة وواسعة بتصميم انيق قريبة من جميع الخدمات مثل الاسواق والمطاعم والمدارس والمستشفيات والشواطي",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -5312,7 +5312,7 @@
       "fr": "Appartements Najah (Nouakchott)"
     },
     "city": "Nouakchott",
-    "district": null,
+    "district": "تفرغ زينة",
     "rawLocation": "Nouakchott, Tavragh Zeine",
     "description": {
       "original": "Appartements meublés haut de gamme dans les meilleurs quartiers de Nouakchott. Confort et sécurité garantis. Services complets et prix compétitifs. Designs modernes et finitions de haute qualité. Emplacement idéal à proximité de toutes les commodités.\n\nRéserver via WhatsApp",
@@ -5355,9 +5355,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1800,
     "sourceUrl": "https://2hlen.com/apparemment-najah/",
-    "searchText": "شقق نجاح نواكشوط najah apartments nouakchott appartements najah nouakchott nouakchott appartements meubles haut de gamme dans les meilleurs quartiers de nouakchott confort et securite garantis services complets et prix competitifs designs modernes et finitions de haute qualite empl",
+    "searchText": "شقق نجاح نواكشوط najah apartments nouakchott appartements najah nouakchott nouakchott تفرغ زينة appartements meubles haut de gamme dans les meilleurs quartiers de nouakchott confort et securite garantis services complets et prix competitifs designs modernes et finitions de haute qualite empl",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -5375,7 +5375,7 @@
       "fr": "Appartements Al Habib (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": "موقع الشقق: انواذيبو _ دبي",
     "description": {
       "original": "Les appartements Al Habib situés à Nouadhibou sont une excellente option de location, car ils offrent des services tels que le Wi-Fi et la climatisation, assurant confort et commodité aux locataires. Il est situé dans un emplacement central de la ville, offrant un accès facile aux commodités et services de base de la région.\n\nاحجز عبر واتساب",
@@ -5422,9 +5422,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1600,
     "sourceUrl": "https://2hlen.com/les-appartements-el-habib/",
-    "searchText": "شقق الحبيب نواذيبو al habib nouadhibou appartements al habib nouadhibou nouadhibou les appartements al habib situes a nouadhibou sont une excellente option de location car ils offrent des services tels que le wi fi et la climatisation assurant confort et commodite aux locataires",
+    "searchText": "شقق الحبيب نواذيبو al habib nouadhibou appartements al habib nouadhibou nouadhibou دبي les appartements al habib situes a nouadhibou sont une excellente option de location car ils offrent des services tels que le wi fi et la climatisation assurant confort et commodite aux locataires",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -5442,7 +5442,7 @@
       "fr": "Appartements Al Madina (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": "موقع الشقق: انواذيبو _ دبي",
     "description": {
       "original": "شقق المدينة في نواذيبو هي خيار ممتاز للإيجار وتوفر تجهيزات حديثة مثل الواي فاي والتكييف. هذه الشقق متوفرة بمساحات وتكوينات مختلفة لتلبي احتياجات الإسكان المتنوعة، مما يجعلها مناسبة للعائلات والأفراد. بالإضافة إلى ذلك، موقعها في نواذيبو يسهل الوصول إلى الخدمات والمرافق الأساسية في المدينة.\n\nاحجز عبر واتساب",
@@ -5484,9 +5484,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1350,
     "sourceUrl": "https://2hlen.com/les-appartements-el-madina/",
-    "searchText": "شقق المدينة نواذيبو al madina nouadhibou appartements al madina nouadhibou nouadhibou شقق المدينة في نواذيبو هي خيار ممتاز للايجار وتوفر تجهيزات حديثة مثل الواي فاي والتكييف هذه الشقق متوفرة بمساحات وتكوينات مختلفة لتلبي احتياجات الاسكان المتنوعة مما يجعلها مناسبة للعايلات والافراد",
+    "searchText": "شقق المدينة نواذيبو al madina nouadhibou appartements al madina nouadhibou nouadhibou دبي شقق المدينة في نواذيبو هي خيار ممتاز للايجار وتوفر تجهيزات حديثة مثل الواي فاي والتكييف هذه الشقق متوفرة بمساحات وتكوينات مختلفة لتلبي احتياجات الاسكان المتنوعة مما يجعلها مناسبة للعايلات والافراد",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -5504,7 +5504,7 @@
       "fr": "Appartements Al Nour (Nouadhibou)"
     },
     "city": "Nouadhibou",
-    "district": null,
+    "district": "دبي",
     "rawLocation": "موقع الشقق: انواذيبو _ دبي",
     "description": {
       "original": "شقق النور: إقامة فاخرة في انواذيبو توفر شققاً أنيقة مزودة بتكييف وخدمة واي فاي عالي السرعة، حيث تجمع بين الراحة والأناقة في موقع مركزي مع مجموعة متنوعة من المرافق لتجربة إقامة استثنائية.\n\nاحجز عبر واتساب",
@@ -5552,9 +5552,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 1650,
     "sourceUrl": "https://2hlen.com/residence-al-nour/",
-    "searchText": "شقق النور نواذيبو al nour nouadhibou appartements al nour nouadhibou nouadhibou شقق النور اقامة فاخرة في انواذيبو توفر شققا انيقة مزودة بتكييف وخدمة واي فاي عالي السرعة حيث تجمع بين الراحة والاناقة في موقع مركزي مع مجموعة متنوعة من المرافق لتجربة اقامة استثنايية احجز عبر وات",
+    "searchText": "شقق النور نواذيبو al nour nouadhibou appartements al nour nouadhibou nouadhibou دبي شقق النور اقامة فاخرة في انواذيبو توفر شققا انيقة مزودة بتكييف وخدمة واي فاي عالي السرعة حيث تجمع بين الراحة والاناقة في موقع مركزي مع مجموعة متنوعة من المرافق لتجربة اقامة استثنايية احجز عبر وات",
     "metadata": {
       "sourcePageId": 146,
       "extractorVersion": "1.4"
@@ -5682,8 +5682,8 @@
       "en": "Toyota Corolla 2020",
       "fr": "Toyota Corolla 2020"
     },
-    "city": null,
-    "district": null,
+    "city": "Nouakchott",
+    "district": "وسط المدينة",
     "rawLocation": null,
     "description": {
       "original": "استمتع بأفضل العروض والخدمات المميزة لتأجير السيارات في جميع أنحاء موريتانيا",
@@ -5697,9 +5697,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 8000,
     "sourceUrl": "https://2hlen.com/toyota-corolla-2020-2/",
-    "searchText": "تويوتا كورولا 2020 toyota corolla 2020 toyota corolla 2020 toyota corolla استمتع بافضل العروض والخدمات المميزة لتاجير السيارات في جميع انحاء موريتانيا",
+    "searchText": "تويوتا كورولا 2020 toyota corolla 2020 toyota corolla 2020 nouakchott وسط المدينة toyota corolla استمتع بافضل العروض والخدمات المميزة لتاجير السيارات في جميع انحاء موريتانيا",
     "metadata": {
       "sourcePageId": 432,
       "extractorVersion": "1.4"
@@ -5886,8 +5886,8 @@
       "en": "Toyota Hilux 2020",
       "fr": "Toyota Hilux 2020"
     },
-    "city": null,
-    "district": null,
+    "city": "Nouadhibou",
+    "district": "وسط المدينة",
     "rawLocation": null,
     "description": {
       "original": "استمتع بأفضل العروض والخدمات المميزة لتأجير السيارات في جميع أنحاء موريتانيا",
@@ -5901,9 +5901,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 12000,
     "sourceUrl": "https://2hlen.com/toyota-hilux-2020/",
-    "searchText": "تويوتا هيلوكس 2020 toyota hilux 2020 toyota hilux 2020 toyota hilux استمتع بافضل العروض والخدمات المميزة لتاجير السيارات في جميع انحاء موريتانيا",
+    "searchText": "تويوتا هيلوكس 2020 toyota hilux 2020 toyota hilux 2020 nouadhibou وسط المدينة toyota hilux استمتع بافضل العروض والخدمات المميزة لتاجير السيارات في جميع انحاء موريتانيا",
     "metadata": {
       "sourcePageId": 432,
       "extractorVersion": "1.4"
@@ -6056,8 +6056,8 @@
       "en": "Toyota Prado 2020",
       "fr": "Toyota Prado 2020"
     },
-    "city": null,
-    "district": null,
+    "city": "Nouakchott",
+    "district": "وسط المدينة",
     "rawLocation": null,
     "description": {
       "original": "استمتع بأفضل العروض والخدمات المميزة لتأجير السيارات في جميع أنحاء موريتانيا",
@@ -6071,9 +6071,9 @@
       "lat": null,
       "lng": null
     },
-    "price": null,
+    "price": 15000,
     "sourceUrl": "https://2hlen.com/toyota-prado-2020/",
-    "searchText": "تويوتا برادو 2020 toyota prado 2020 toyota prado 2020 toyota prado استمتع بافضل العروض والخدمات المميزة لتاجير السيارات في جميع انحاء موريتانيا",
+    "searchText": "تويوتا برادو 2020 toyota prado 2020 toyota prado 2020 nouakchott وسط المدينة toyota prado استمتع بافضل العروض والخدمات المميزة لتاجير السيارات في جميع انحاء موريتانيا",
     "metadata": {
       "sourcePageId": 432,
       "extractorVersion": "1.4"
@@ -8285,8 +8285,7 @@
     "albums": [],
     "thumbnail": "https://2hlen.com/wp-content/uploads/elementor/thumbs/Screenshot_20250419_143002_Chrome-r4lcuncu9vioo81hbkhr2lmsfejj2tlhost6tsar9k.webp",
     "phones": [
-      "+222 34 37 13 13",
-      "+222 33 37 13 13"
+      "+222 34 37 13 13"
     ],
     "location": {
       "lat": null,
